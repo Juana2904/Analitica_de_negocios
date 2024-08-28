@@ -1,16 +1,16 @@
 # Analitica_de_negocios
 Acercamiento a herramientas de analitica de negocios como Power Bi, SQL, Python y R
 # Juana Daniela Cruz Campuzano
-## Hola Mundo 2
-### Hola Mundo 3
-#### Hola Mundo 4
-##### Hola Mundo 5
+## Estudiante Administración de Empresas
+### Octavo Semestre
+#### Análitica de negocios
+##### Hola Mundo
 
 **Este es mi primer repositorio en Github**
-*Administración de empresas* 
-* Primer Elemento
-* Segundo Elemento
-* Tercer Elemento
+* Mi comida favorita es la carne 
+* Cumplo el 29 de abril
+* Mi color favorito es el verde
+* Lo más importante es mi familia
 1. Primer Elemento de la Lista
 2. Segundo Elemento de la Lista
 3. Tercer Elemento de la Lista
